@@ -1,2 +1,2 @@
 ## ns-3-indoor-coexistence-dataset-and-code
-dcjdbcjhcdv    cscjsbcsjab  dcssafsv
+The data set is simulated by the LBT Wi Fi Coexistence Module in ns-3. The data is divided into three traffic applications: ftp, voice flows and constant bit rate streams. The python file under the sub file is part of the code of the machine learning model. There is also a software that strongly interacts with ns-3 and needs to install ns-3 and ns3-ai. The code can only be run after intensive learning of the python interface under the ns-3 terminal.
