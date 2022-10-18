@@ -5,5 +5,5 @@ The dataset is emulated by the LBT Wi-Fi Coexistence Module in ns-3, and the dat
 * python 3.7
 * scikit-learn 0.24.1
 * ns3-ai v1.1.0
-* torch 1.10.0
+* pytorch 1.10.0
 * cuda 10.0
